@@ -62,6 +62,12 @@ flutter:
   assets:
     - assets/images/pawPathGetStarted.png
     - assets/images/catGetStarted.png
+    - assets/images/veterinario.png
+    - assets/images/saco.png
+    - assets/images/comida-de-gato.png
+    - assets/images/gato.png
+    - assets/images/animais-de-estimacao.png
+    - assets/images/lupa.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
