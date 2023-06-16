@@ -1,3 +1,4 @@
+import 'package:cat_care/views/catFacts.view.dart';
 import 'package:cat_care/views/comingSoon.view.dart';
 import 'package:flutter/material.dart';
 
@@ -340,7 +341,7 @@ class HomePage extends StatelessWidget {
                                             Navigator.of(context).push(
                                               MaterialPageRoute(
                                                   builder: (context) =>
-                                                      const ComingSoon()));
+                                                      const CatFacts()));
                                         },
                                         style: ElevatedButton.styleFrom(
                                           padding: EdgeInsets.zero,
@@ -356,9 +357,8 @@ class HomePage extends StatelessWidget {
                                               gradient: LinearGradient(
                                                 colors: [
                                                   Color.fromARGB(
-                                                      255, 190, 190, 190),
-                                                  Color.fromARGB(
-                                                      255, 154, 154, 154),
+                                                      255, 255, 124, 148),
+                                                  Color(0xFFFD466F),
                                                 ],
                                                 begin: Alignment.topRight,
                                                 end: Alignment.bottomLeft,
