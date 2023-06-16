@@ -16,9 +16,9 @@ Este repositório contém um aplicativo simples que exibe fatos aleatórios sobr
 - Possibilidade de compartilhar os fatos favoritos nas redes sociais.
 
 ## Capturas de Tela
-![CatCare_HomePage](https://github.com/Gust4voD4nt4s/CatCare/assets/78984177/4a03fa2c-77ba-40b2-8400-2fd25e0ba2df)
-![CatCare_inicio](https://github.com/Gust4voD4nt4s/CatCare/assets/78984177/bcd43936-26ad-4cb4-85ad-152c7effcdde)
-![CatCare_fact](https://github.com/Gust4voD4nt4s/CatCare/assets/78984177/a01f48db-69ec-464b-8a7e-3e7f3bed556f)
+<img src="https://github.com/Gust4voD4nt4s/CatCare/assets/78984177/bcd43936-26ad-4cb4-85ad-152c7effcdde" width="200px">
+<img src="https://github.com/Gust4voD4nt4s/CatCare/assets/78984177/4a03fa2c-77ba-40b2-8400-2fd25e0ba2df" width="200px">
+<img src="https://github.com/Gust4voD4nt4s/CatCare/assets/78984177/a01f48db-69ec-464b-8a7e-3e7f3bed556f" width="200px">
 
 ## Como Executar o Aplicativo
 
